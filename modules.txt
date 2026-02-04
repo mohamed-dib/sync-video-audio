@@ -1,0 +1,8 @@
+numpy
+pyqtgraph
+pydub
+opencv-python
+moviepy
+tqdm
+json
+soundfile
